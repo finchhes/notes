@@ -1,5 +1,0 @@
----
-title: misc
----
-hello!
-***

@@ -1,5 +1,5 @@
 ---
-title: true crime
+title: columbine
 ---
 see [[a preface]] for information.
 ***
