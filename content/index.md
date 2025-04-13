@@ -1,6 +1,17 @@
 ---
-title: notes.gyuu.ing
+title: learning in public
 ---
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⣤⣤⣀⣄⣤⣠⣤⣤⡤⠤⠤⢤⣀⣤⡀⠀⠀⣰
+⢰⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⠿⣿⣿⣿⠿⠧⠴⠛⠛⠒⠛⠉⠉⠋⠉⠉⠉⠉⠙
+⢸⣿⣿⠿⠏⠉⠁⠀⢰⣿⠁⠀⠉⢿⣿⡆
+⠀⠀⠀⠀⠀⠀⠀⠀⠻⠇⠀⠀⠀⠈⢿⣿⣦⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠃
+```
+### welcome, come on in!
+this is a digital notebook of miscellaneous thoughts, ideas, and notes.  
 
-## meow
-### meows
+
+$$
+enjoy!
+$$

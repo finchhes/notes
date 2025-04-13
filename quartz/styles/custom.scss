@@ -1,22 +1,33 @@
 @use "./base.scss";
 
 h1 {
-    color:#843142;
+    color:#b4befe;
 }
 
 h2 {
-    color:#af5a43;
+    color:#b6a6f7;
 }
 
 h3 {
-    color:#b99156;
+    color:#89B4FA;
+}
+
+.explorer-content ul li > a {
+    opacity:1;
+    color:var(--tertiary);
+    filter:brightness(80%) saturate(140%);
+    transition:.3s;
+}
+
+.explorer-content ul li > a:hover {
+    filter:brightness(100%) saturate(140%);
 }
 
 .left.sidebar > div {
     gap:0 !important;
 }
 
-.left.sidebar, footer, .graph, p.content-meta, .title-button.explorer-toggle.desktop-explorer, .toc-header {
+.left.sidebar, footer, .graph, p.content-meta, .title-button.explorer-toggle.desktop-explorer, .toc-header, .search-button, .search-bar {
     text-transform:lowercase;
 }
 
@@ -26,4 +37,8 @@ h3 {
 
 .search {
     max-width:100%;
+}
+
+p {
+    font-size:18px;
 }
