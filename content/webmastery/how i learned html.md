@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+draft: "true"
 ---
 ## to preface:
 i learned html in 2022 as a coping mechanism. i wasn't happy with myself and my online image, so i scrapped it all and started a neocities page. 
