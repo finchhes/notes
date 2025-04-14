@@ -16,8 +16,9 @@
 - [ ] find gigs
 
 ### RS/RR
-- [ ] 14/4 testimonial shoot
-- [ ] figure out socials situation
+- [x] 14/4 testimonial shoot
+	- [ ] edit
+- [x] figure out socials situation
 - [ ] sundays: volunteering
 
 ### personal study

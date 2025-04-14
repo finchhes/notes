@@ -46,3 +46,9 @@ p {
 strong {
     color:var(--darkgray) !important;
 }
+
+code {
+    background:none;
+    color:var(--darkgray);
+    filter:brightness(50%) saturate(200%);
+}
