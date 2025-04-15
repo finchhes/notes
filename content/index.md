@@ -12,6 +12,8 @@ title: learning in public
 this is a digital notebook of miscellaneous thoughts, ideas, and notes.  
 
 
+
+
 $$
 enjoy!
 $$
