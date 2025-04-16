@@ -1,5 +1,0 @@
----
-title: true crime
----
-see [[a preface]] for information.
-***

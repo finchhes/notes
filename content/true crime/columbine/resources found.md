@@ -1,7 +1,8 @@
 ---
 tags:
   - resources
-  - truecrime/columbine
+  - truecrime
+  - columbine
 ---
 
 https://www.reddit.com/r/ColumbineKillers/comments/1jucujn/columbine_morning_ritual_corrected_version/

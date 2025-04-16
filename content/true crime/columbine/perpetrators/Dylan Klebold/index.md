@@ -1,3 +1,0 @@
----
-title: Dylan Klebold
----

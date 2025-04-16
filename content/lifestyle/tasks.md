@@ -10,7 +10,7 @@ tags:
 	- cst 151
 	- interpersonal comm
 - [ ] register for eng 111 in june
-- [ ] look for apartments 
+- [x] look for apartments 
 
 ### freelance 
 - [ ] docu short film

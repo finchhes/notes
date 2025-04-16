@@ -4,9 +4,9 @@ aliases:
   - Eric
   - Harris
 tags:
-  - truecrime/columbine
-  - truecrime/columbine/eric
   - wiki
+  - truecrime
+  - columbine
 ---
 > [!infobox]
 > 
@@ -27,7 +27,7 @@ tags:
 > | Parents | Wayne Harris and Katherine Anne Poole |
 > 
 
-Eric Harris was a high school student and later mass murderer from Wichita, Kansas. He attended Columbine High School in Columbine, Colorado, where he and [[Dylan Klebold]] later [[what happened?|killed 13 individuals]] on April 20th, 1999. Harris was responsible for 9 deaths (8 as the sole aggressor) out of these thirteen[^1], not including his own. He died by [[library suicide|suicide in the library]] following the shooting alongside [[Dylan Klebold|Klebold]].
+Eric Harris was a high school student and later mass murderer from Wichita, Kansas. He attended Columbine High School in Columbine, Colorado, where he and [[Dylan Klebold]] later [[what happened?|killed 13 individuals]] on April 20th, 1999. Harris was responsible for 9 deaths (8 as the sole aggressor) out of these thirteen[^1], not including his own. He died by [[library suicide|suicide]] in the school library following the shooting.
 ## early life
 Eric David Harris was born on April 9, 1981 in Wichita, Kansas, to his parents Wayne Harris and Katherine Anne Poole. Both of his parents were raised in Colorado, with his father working in the United States Air Force, causing the family to move frequently.  When Harris was two years old, he and his family moved to Dayton, Ohio, and again six years later to Osada, Michigan. In 1991, they settled into Plattsburgh, New York. Harris was actively involved with his school mates at Stafford Middle School, being invited to birthday parties, playing Little League Baseball, and generally being seen as one of the group. Kyle Ross, a former classmate, spoke out about Harris saying, "he was just a typical kid".[^2] The family moved to Colorado a year later following Wayne's retirement. 
 
@@ -49,7 +49,7 @@ Jason Ruzi says Harris "began to drift" before quitting the soccer team. Harris'
 ### before the attack
 17 days before they graduated[^7], Harris and [[Dylan Klebold|Klebold]] were ready to make their attack. 
 
-Harris and [[Dylan Klebold|Klebold]] skipped their first class, bowling
+Harris and [[Dylan Klebold|Klebold]] skipped their first class, bowling. Harris was supposed to pick up Chris Morris 
 ### 11:00 
 
 

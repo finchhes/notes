@@ -20,4 +20,4 @@ mostly because theyre actually lame as fuck and care way too much about seeming 
 ### that being said...
 i will not try to moralize or justify my interest in these events. i think people who solely talk about the psychology behind it are kidding themselves, because beyond all that it really is just an instinct to learn. a curiosity
 
-i have mixed emotions on [[Eric Harris|eric]] and [[Dylan Klebold|dylan]], as do most, but just like most i believe [[library suicide|their death]] was deserved and that they will rot in hell for [[what happened?|their actions]]
+i have mixed emotions on [[Eric Harris|eric]] and [[Dylan Klebold|dylan]], as do most. i hold a sort of sympathy for them, even if they do not deserve it. i hope they find peace in death and i'm sorry that the world failed them, but that does not take away towards my hurt and sympathy for their victims whos lives were taken too soon.
