@@ -1,3 +1,7 @@
+---
+tags:
+  - metanotes
+---
 ### mini colophon
 - hosted with github pages and quartz
 - written using obsidian

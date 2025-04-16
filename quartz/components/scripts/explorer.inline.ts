@@ -158,6 +158,9 @@ async function setupExplorer(currentSlug: FullSlug) {
       mapFn: new Function("return " + (dataFns.mapFn || "undefined"))(),
     }
 
+    explorer.addEventListener("click", toggleExplorer)
+  window.addCleanup(() => explorer.removeEventListener("click", toggleExplorer))
+
     // Get folder state from local storage
     const storageTree = localStorage.getItem("fileTree")
     const serializedExplorerState = storageTree && opts.useSavedState ? JSON.parse(storageTree) : []

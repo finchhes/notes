@@ -1,6 +1,9 @@
 ---
 title: learning in public
+tags:
+  - metanotes
 ---
+
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⣤⣤⣀⣄⣤⣠⣤⣤⡤⠤⠤⢤⣀⣤⡀⠀⠀⣰
 ⢰⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⠿⣿⣿⣿⠿⠧⠴⠛⠛⠒⠛⠉⠉⠋⠉⠉⠉⠉⠙
@@ -11,9 +14,10 @@ title: learning in public
 ### welcome, come on in!
 this is a digital notebook of miscellaneous thoughts, ideas, and notes.  
 
-
-
-
 $$
 enjoy!
 $$
+
+current priorities: [[Eric Harris]] [[SMPT]] [[tasks]]
+***
+![[meta]]

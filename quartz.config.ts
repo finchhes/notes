@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Averia Sans Libre",
-        body: "Averia Sans Libre",
+        header: "Charis SIL",
+        body: "Gentium Book Plus",
         code: "IBM Plex Mono",
       },
       colors: {

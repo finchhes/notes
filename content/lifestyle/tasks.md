@@ -1,4 +1,8 @@
-
+---
+tags:
+  - lifestyle
+  - productivity
+---
 ### school
 - [x] register for classes
 	- juvenile justice
