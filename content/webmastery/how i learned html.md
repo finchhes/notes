@@ -19,7 +19,9 @@ that being said, this is detailing how i learned casual css, not professional we
 ## what are you interested in making?
 
 if you're just trying to make a shitpost site your best bet is to wing it, pull up a learning source like [w3schools.com](https://www.w3schools.com/) and just start. you dont need this if your goal is to build something that looks like this
+
 ![[geocities.png|300]] 
+
 but youre welcome to keep reading regardless!
 
 # humble beginnings

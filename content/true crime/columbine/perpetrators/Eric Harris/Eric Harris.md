@@ -63,4 +63,4 @@ Harris and [[Dylan Klebold|Klebold]] skipped their first class, bowling. Harris 
 [^4]: https://schoolshooters.info/sites/default/files/columbine_basement_tapes_1.0.pdf
 [^5]: https://www.csmonitor.com/1999/0503/p3s1.html
 [^6]: https://extras.denverpost.com/news/shot0423d.htm
-[^7]: https://web.archive.org/web/20191208020853/https://www.nytimes.com/1999/04/24/us/terror-in-littleton-the-seniors-in-horrific-circumstance-sense-of-lost-pomp.html archived to bypass New York Times' paywall
+[^7]: [https://www.nytimes.com/1999/04/24/us/terror-in-littleton-the-seniors-in-horrific-circumstance-sense-of-lost-pomp.html](https://web.archive.org/web/20191208020853/https://www.nytimes.com/1999/04/24/us/terror-in-littleton-the-seniors-in-horrific-circumstance-sense-of-lost-pomp.html) archived to bypass New York Times' paywall

@@ -11,6 +11,10 @@ tags:
 	- interpersonal comm
 - [ ] register for eng 111 in june
 - [x] look for apartments 
+	- [x] 800
+		- 2800 1017sqf 2b2b 
+			- definitely not
+	- [ ] ---
 
 ### freelance 
 - [ ] docu short film
@@ -21,7 +25,7 @@ tags:
 
 ### RS/RR
 - [x] 14/4 testimonial shoot
-	- [ ] edit
+	- [x] edit
 - [x] figure out socials situation
 - [ ] sundays: volunteering
 
