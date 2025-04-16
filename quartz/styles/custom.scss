@@ -52,19 +52,3 @@ code {
     color:var(--darkgray);
     filter:brightness(50%) saturate(200%);
 }
-
-.explorer {
-    pointer-events: none !important;
-}
-
-.folder-title {
-    pointer-events: all;
-}
-
-.title-button {
-    display:none !important;
-}
-
-.explorer-toggle {
-    pointer-events: all;
-}
