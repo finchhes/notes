@@ -19,5 +19,7 @@ enjoy!
 $$
 
 current priorities: [[Eric Harris]] [[SMPT]] [[tasks]]
+
+
 ***
-![[meta]]
+![[meta#mini colophon]]

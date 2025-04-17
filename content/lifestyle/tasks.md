@@ -26,15 +26,16 @@ tags:
 ### RS/RR
 - [x] 14/4 testimonial shoot
 	- [x] edit
+	- [ ] send
 - [x] figure out socials situation
+- [ ] friday: NBC
+	- [x] thurs: shower
+	- [ ] pick outfit
 - [ ] sundays: volunteering
 
 ### personal study
 - [ ] learn typography
-- [ ] essay: why are school shootings so interesting?
-	- [ ] outline
-	- [ ] draft
-	- [ ] final
+- [ ] clmb wiki learning
 - [ ] find cool seals
 
 ### media backlog

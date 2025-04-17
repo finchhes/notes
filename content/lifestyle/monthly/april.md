@@ -3,7 +3,7 @@ tags:
   - lifestyle
 ---
 ## monthly goal:
-get your shit together
+get your shit together 
 
 ![[SMPT]]
 
