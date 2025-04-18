@@ -6,6 +6,7 @@ aliases:
 tags:
   - psys
 ---
+
 > [!column]
 > | important |                              |
 > | -------------- | ---------------------------- |
@@ -19,5 +20,8 @@ tags:
 > | personal | |
 > | --- | --- |
 > | wip | | 
+
 ### notes
 tba
+
+[[people/loml/elle/gift ideas|gift ideas]]

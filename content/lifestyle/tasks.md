@@ -26,11 +26,10 @@ tags:
 ### RS/RR
 - [x] 14/4 testimonial shoot
 	- [x] edit
-	- [ ] send
+	- [x] send
 - [x] figure out socials situation
 - [ ] friday: NBC
 	- [x] thurs: shower
-	- [ ] pick outfit
 - [ ] sundays: volunteering
 
 ### personal study

@@ -7,6 +7,7 @@ aliases:
 tags:
   - psys
 ---
+[[river|river]] gift ideas
 > [!column]
 > | important |                              |
 > | -------------- | ---------------------------- |
@@ -24,5 +25,8 @@ tags:
 > | music | searows, kevin atwater, dodie, fizz, waterparks |
 > | film&tv | heartstopper, iwyatb, luca, i saw the tv glow, ponyo |
 > | other | never travelled   |
+
 ### notes
 tba
+
+[[people/loml/river/gift ideas|gift ideas]]
