@@ -6,6 +6,8 @@ tags:
 - sophomore 
 - lighter of the two
 - social anxiety
+- raccoon tails 
+- into the arctic monkeys and slipknot
 
 ### friends
 - [[sonja]]
