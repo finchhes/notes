@@ -1,8 +1,10 @@
-#lifestyle #plurality
-
+---
+tags:
+  - plurality
+  - lifestyle
+---
 this isnt really a note about plurality or our system or anything
 just collective nonsensical notes and a resource dump
-
 - dmv plural group 
 - 
 - last iw update
@@ -20,5 +22,3 @@ just collective nonsensical notes and a resource dump
 	- lev
 		- dismissed completely
 			- just ignore this bitch honestly
-	- instagram people 
-		- at least the ones who read our bio

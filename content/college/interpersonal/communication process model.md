@@ -3,6 +3,7 @@ id: communication process model
 aliases: []
 tags:
   - college
+  - interpersonal
   - notes
 ---
 
